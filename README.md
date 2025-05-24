@@ -1,13 +1,11 @@
 # Mohamed Lagrich
 
-🚀 Full Stack Developer | Web Developer | Game Developer
+Full Stack Web Developer | Game Developer
 
-💻 Building modern web experiences with React, TypeScript, and TailwindCSS
-🎮 Creating interactive experiences with Unity and C#
-🎨 Passionate about smooth animations and intuitive UI/UX
-⚡ Expert in: MERN Stack, Vue.js, Laravel, WebAssembly
-🛠 Crafting both web applications and game experiences
-🎯 Currently focused on performance-oriented development
+Building web applications with React and modern tech stacks. Creating interactive experiences with Unity/C#.
+Focused on performance, clean animations, and intuitive interfaces.
 
-📫 Available for freelance work on [Fiverr](https://www.fiverr.com/kayansksama)
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-lagrich/)
+**Tech Stack:** MERN, Laravel, Vue.js, Unity, WebAssembly  
+**Currently:** Working on web and game development projects
+
+[Fiverr](https://www.fiverr.com/kayansksama) | [LinkedIn](https://www.linkedin.com/in/mohamed-lagrich/)
