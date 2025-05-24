@@ -1,41 +1,73 @@
-# Mohamed Lagrich
+<div align="center">
+  <h1>Mohamed Lagrich</h1>
+  <p>Full Stack Web Developer | Game Developer</p>
+</div>
 
-Full Stack Web Developer and Game Developer with expertise in modern web technologies and Unity development. Creating performant web applications and interactive gaming experiences.
+## About
+Building web applications and interactive experiences with modern technologies. Focused on performance, clean animations, and intuitive interfaces.
 
 ## Tech Stack
 
-### Web Development
-- **Frontend:** React, Vue.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
-- **Backend:** Node.js, Express.js, PHP, Laravel
-- **Database:** MongoDB, MySQL
-- **Tools:** Git, npm, Composer, WebAssembly, Chart.js
+### 🎨 Frontend
+<div style="display: flex; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=react" alt="react" title="React"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="javascript" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="typescript" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="html" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="css" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" title="Tailwind CSS"/>
+</div>
 
-### Game Development
-- **Engine:** Unity
-- **Languages:** C#
-- **Framework:** .NET
+### ⚡ Backend
+<div style="display: flex; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=php" alt="php" title="PHP"/>
+  <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" title="Laravel"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="express" title="Express.js"/>
+</div>
 
-## Professional Experience
+### 💾 Database
+<div style="display: flex; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" title="MongoDB"/>
+</div>
 
-### Fiverr Projects
-- Built responsive web applications using React and modern tech stacks
-- Developed custom animations and interactive UIs with GSAP
-- Created performant backend solutions with Node.js and Laravel
-- Integrated databases and API systems
-- Developed Unity game prototypes and interactive experiences
+### 🎮 Game Development
+<div style="display: flex; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=cs" alt="csharp" title="C#"/>
+  <img src="https://skillicons.dev/icons?i=unity" alt="unity" title="Unity"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" title=".NET"/>
+</div>
 
-### Key Skills
-- Full Stack Development
-- UI/UX Design
-- Database Architecture
-- Game Development
-- Performance Optimization
-- API Integration
+### 🛠 Tools
+<div style="display: flex; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=git" alt="git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=npm" alt="npm" title="npm"/>
+  <img src="https://skillicons.dev/icons?i=wasm" alt="webassembly" title="WebAssembly"/>
+</div>
 
-## Let's Connect
-- [Fiverr](https://www.fiverr.com/kayansksama)
-- [LinkedIn](https://www.linkedin.com/in/mohamed-lagrich/)
-- [Email](mailto:lagrich.mohamed@outlook.com)
+## Experience
+
+- 🚀 Creating responsive web applications
+- 💻 Developing backend solutions
+- 🎨 Crafting smooth UI animations
+- 🎮 Building game prototypes
+- 🔧 Optimizing application performance
+- 🌐 Integrating APIs and databases
+
+## Connect
+
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.fiverr.com/kayansksama">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-lagrich/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lagrich.mohamed@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+</div>
 
 ## Currently
-Working on web and game development projects, focusing on performance and user experience.
+Working on web and game development projects, with a focus on performance and user experience.
