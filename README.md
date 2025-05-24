@@ -1,16 +1,13 @@
-## Hi there 👋
+# Mohamed Lagrich
 
-<!--
-**LagrichMohamed/LagrichMohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | Web Developer | Game Developer
 
-Here are some ideas to get you started:
+💻 Building modern web experiences with React, TypeScript, and TailwindCSS
+🎮 Creating interactive experiences with Unity and C#
+🎨 Passionate about smooth animations and intuitive UI/UX
+⚡ Expert in: MERN Stack, Vue.js, Laravel, WebAssembly
+🛠 Crafting both web applications and game experiences
+🎯 Currently focused on performance-oriented development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Available for freelance work on [Fiverr](https://www.fiverr.com/kayansksama)
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-lagrich/)
